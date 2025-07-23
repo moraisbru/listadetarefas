@@ -1,4 +1,4 @@
-# listadetarefas
+# Lista de Tarefas no Terminal (Swift)
 Aplicativo mobile feito em Swift que simula uma lista de tarefas com funções de adicionar, editar e remover.
 
 Este é um projeto simples feito em Swift para rodar no terminal. Foi desenvolvido como exercício para praticar os primeiros conceitos de lógica de programação e estrutura de código.
